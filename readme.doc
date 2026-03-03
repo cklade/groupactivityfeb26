@@ -1,0 +1,5 @@
+If 2 memmbers of a group project edit the same line of code in a file, 
+a merge would create a conflict since the same line has two different changes. 
+
+To create a merge that does not have any conflicts, 2 members can edit the same file 
+in different places. This won't created any overlapping changes. 
